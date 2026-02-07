@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Parth Patel 👋
 
-<!--
-**parthsp10/parthsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at SIUE (May 2026). I build data-driven systems and full-stack projects using Python, SQL, and modern tools.
 
-Here are some ideas to get you started:
+- 🔭 Interests: Software Engineering, Data Analytics, LLM-based automation
+- 🛠 Tech: Python, SQL, Java, JavaScript, Pandas, Scikit-learn, Node.js, Docker, Git, PostgreSQL
+- 🎯 Seeking: SWE Intern / Data Analyst Intern / Data Science Intern roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Customer Churn Analytics** — Python + SQL project analyzing 7,000+ records  
+- **News Sentiment Analysis** — web scraping + local LLM sentiment classification  
+- **Storm Surge (SwipeHome)** — full-stack disaster-response contractor dispatch platform  
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/parth-patel-343b3b21a/
+- Portfolio: https://parthsp10.github.io/DontKnowCod.github.io/
